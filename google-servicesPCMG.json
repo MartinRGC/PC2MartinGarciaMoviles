@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927481986506",
+    "project_id": "pc2mg-512c6",
+    "storage_bucket": "pc2mg-512c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927481986506:android:dec46e19b6ce9b6b1de333",
+        "android_client_info": {
+          "package_name": "com.example.pc2martingarciamviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbU0LFmvK646zNVB_viXDeTx4f62OuFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
